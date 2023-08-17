@@ -1,1 +1,2 @@
  first line added in b4 file
+ second line added in b4.file
