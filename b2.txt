@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  this my first line
  this my second line 
+=======
+ this my first line 
+>>>>>>> cf54770 (first line added)
